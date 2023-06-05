@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="46ee9cb7eb67448c98cee07fa98cea0c" Name="Diagram1">
+        <EntityTypeShape EntityType="PBS_TRIALModel.BankDetail" Width="1.5" PointX="0.75" PointY="9.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PBS_TRIALModel.BarcodeStock" Width="1.5" PointX="2.75" PointY="9.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PBS_TRIALModel.BILLCOST" Width="1.5" PointX="3" PointY="1.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="PBS_TRIALModel.Brand_MOT" Width="1.5" PointX="10.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PBS_TRIALModel.Dexp" Width="1.5" PointX="10.75" PointY="2.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PBS_TRIALModel.erwcn" Width="1.5" PointX="4.75" PointY="10.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PBS_TRIALModel.eswcn" Width="1.5" PointX="10.75" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PBS_TRIALModel.fParty" Width="1.5" PointX="5.75" PointY="1.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="PBS_TRIALModel.fPartyPurch" Width="1.5" PointX="5.75" PointY="6.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="PBS_TRIALModel.fUser" Width="1.5" PointX="6.75" PointY="10.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PBS_TRIALModel.HSNCode" Width="1.5" PointX="8.75" PointY="10.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PBS_TRIALModel.Item" Width="1.5" PointX="0.75" PointY="2.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PBS_TRIALModel.POS" Width="1.5" PointX="10.75" PointY="10.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PBS_TRIALModel.pswcn" Width="1.5" PointX="12.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PBS_TRIALModel.Sswcn" Width="1.5" PointX="12.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PBS_TRIALModel.Stock" Width="1.5" PointX="12.75" PointY="8.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PBS_TRIALModel.StockEmtOffice" Width="1.5" PointX="12.75" PointY="11.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PBS_TRIALModel.StockFactory" Width="1.5" PointX="3" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PBS_TRIALModel.StockGodown" Width="1.5" PointX="3" PointY="6.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="PBS_TRIALModel.Temp_wcn" Width="1.5" PointX="0.75" PointY="13.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PBS_TRIALModel.Type" Width="1.5" PointX="8.75" PointY="13.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PBS_TRIALModel.UQC" Width="1.5" PointX="14.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PBS_TRIALModel.Warranty" Width="1.5" PointX="2.75" PointY="14.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PBS_TRIALModel.BAD" Width="1.5" PointX="14.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PBS_TRIALModel.BAD99" Width="1.5" PointX="14.75" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PBS_TRIALModel.BADold" Width="1.5" PointX="10.75" PointY="14.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PBS_TRIALModel.CreateStockRaw" Width="1.5" PointX="14.75" PointY="11.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PBS_TRIALModel.DLPLanding" Width="1.5" PointX="12.75" PointY="15.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PBS_TRIALModel.DStock" Width="1.5" PointX="14.75" PointY="15.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PBS_TRIALModel.DStock_CG" Width="1.5" PointX="16.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PBS_TRIALModel.DStock_MP" Width="1.5" PointX="2.75" PointY="16.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PBS_TRIALModel.EmtStockCust" Width="1.5" PointX="16.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PBS_TRIALModel.fBilling" Width="1.5" PointX="16.75" PointY="8.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PBS_TRIALModel.fBilling_bILL" Width="1.5" PointX="16.75" PointY="15.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PBS_TRIALModel.Fbtot" Width="1.5" PointX="4.75" PointY="17.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PBS_TRIALModel.Fbtot_bILL" Width="1.5" PointX="6.75" PointY="17.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PBS_TRIALModel.Fbtot_temp" Width="1.5" PointX="18.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PBS_TRIALModel.fcuopen" Width="1.5" PointX="18.75" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PBS_TRIALModel.fcuopen_pur" Width="1.5" PointX="8" PointY="6" IsExpanded="true" />
+        <EntityTypeShape EntityType="PBS_TRIALModel.fcuopen99" Width="1.5" PointX="8" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="PBS_TRIALModel.fcuopenold" Width="1.5" PointX="8.75" PointY="18.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PBS_TRIALModel.fcuopenoldPur" Width="1.5" PointX="10.75" PointY="18.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PBS_TRIALModel.fSTVAT" Width="1.5" PointX="18.75" PointY="12.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PBS_TRIALModel.ProReturnDetail" Width="1.5" PointX="18.75" PointY="15.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PBS_TRIALModel.Purchase" Width="1.5" PointX="12.75" PointY="19.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PBS_TRIALModel.PurchaseFactory" Width="1.5" PointX="20.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PBS_TRIALModel.PurchaseGODOWN" Width="1.5" PointX="0.75" PointY="20.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PBS_TRIALModel.PurchaseTaxDtl" Width="1.5" PointX="20.75" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PBS_TRIALModel.SalReturnDetail" Width="1.5" PointX="20.75" PointY="14.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PBS_TRIALModel.STOCK_TEMP" Width="1.5" PointX="18.75" PointY="20.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PBS_TRIALModel.STOCKDETAILS_EmtPur" Width="1.5" PointX="20.75" PointY="19.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PBS_TRIALModel.STOCKDETAILS_EmtSal" Width="1.5" PointX="22.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PBS_TRIALModel.StockEmtPurchase" Width="1.5" PointX="22.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PBS_TRIALModel.Product_List" Width="1.5" PointX="22.75" PointY="8.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PBS_TRIALModel.v_BATCH_TALLY" Width="1.5" PointX="22.75" PointY="12.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PBS_TRIALModel.V_PurchaseRet" Width="1.5" PointX="14.75" PointY="22.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PBS_TRIALModel.V_PurRetune" Width="1.5" PointX="22.75" PointY="17.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PBS_TRIALModel.V_Stock" Width="1.5" PointX="8.75" PointY="23.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PBS_TRIALModel.VCG_Bills" Width="1.5" PointX="16.75" PointY="23.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PBS_TRIALModel.VFindProd" Width="1.5" PointX="18.75" PointY="23.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PBS_TRIALModel.View_Ftotal_Bill" Width="1.5" PointX="24.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PBS_TRIALModel.VMP_Bills" Width="1.5" PointX="24.75" PointY="3.75" IsExpanded="true" />
+        <AssociationConnector Association="PBS_TRIALModel.FK_BILLCOST_AMT" ManuallyRouted="false" />
+        <AssociationConnector Association="PBS_TRIALModel.FK_fcuopen99_fParty1" ManuallyRouted="false" />
+        <AssociationConnector Association="PBS_TRIALModel.FK_fcuopen_pur_fPartyPurch1" ManuallyRouted="false" />
+        <AssociationConnector Association="PBS_TRIALModel.FK_StockFactory_Stock" ManuallyRouted="false" />
+        <AssociationConnector Association="PBS_TRIALModel.FK_StockGodown_Stock" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
